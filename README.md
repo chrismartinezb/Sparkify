@@ -15,15 +15,28 @@ This project requires **Python 3.6** and the following Python libraries installe
 
 ## Data
 
-The datasets consist in 543705 entries of user's datalogs. They contain information such as  user name, gender, location,ong listened, event type, device used,etc).
+The [dataset](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/December/5c1d6681_medium-sparkify-event-data/medium-sparkify-event-data.json) consist in 543705 entries of user's datalogs. They contain information such as  user name, gender, location,ong listened, event type, device used,etc.
  
  ## Process
 
+- Loading the data.
+
+-Cleaning the data.
+
+-Exploring the data.
+
+-Feature Engeneering.
+
+-Model testing.
+
+-Model Tuning
+
+-Most importan features.
 
 
 ## File description.
 
-[app](https://github.com/chrismartinezb/Disaster_response_pipeline/tree/master/app): HTML templates for the web app and run.py that starts the webapp.
+[Notebook](https://github.com/chrismartinezb/Disaster_response_pipeline/tree/master/app): You can follow the step by step on this notebook.
  
 
 ## Licensing, Authors, Acknowledgements
