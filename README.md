@@ -29,7 +29,7 @@ The [dataset](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/Decemb
 
 - Model testing.
 
--Model Tuning
+- Model Tuning
 
 - Most importan features.
 
