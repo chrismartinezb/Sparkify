@@ -21,17 +21,17 @@ The [dataset](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/Decemb
 
 - Loading the data.
 
--Cleaning the data.
+- Cleaning the data.
 
--Exploring the data.
+- Exploring the data.
 
--Feature Engeneering.
+- Feature Engeneering.
 
--Model testing.
+- Model testing.
 
 -Model Tuning
 
--Most importan features.
+- Most importan features.
 
 
 ## File description.
