@@ -1,6 +1,6 @@
 # Sparkify
 
-The aim of the project is to build a ML model that predicts weahter or not a Sparkify user leaves the app.
+The aim of the project is to build a ML model that predicts weahter or not a Sparkify user leaves the app. Check this blogpost for a deeper [insight](https://medium.com/p/713da6c16bd3/edit) on the project.
 
 # Install
 
